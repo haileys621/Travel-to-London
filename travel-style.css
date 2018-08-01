@@ -1,0 +1,70 @@
+h1 {
+  font-family: "Garamond", script;
+  font-size: 64px;
+  text-align: center;
+}
+h2 {
+  font-family: "Garamond", script;
+  font-size: 32px;
+  text-align: center;
+}
+h3 {
+  font-family: "Garamond", script;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+p {
+  font-family: "Plantin", serif;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+div {
+  font-family: "Plantin", serif;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body {
+  background-color: #ffe6e6;
+  width: 1000px;
+  padding: 10px;
+  border: 10px solid #A4B3B6;
+  margin-left: auto;
+  margin-right: auto;
+}
+html {
+  background-color: #464866;
+}
+.boxed {
+  border: 2.5px solid  #71898e;
+  padding: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #464866;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
